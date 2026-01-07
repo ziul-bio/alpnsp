@@ -6,16 +6,16 @@ This repository contains the computational data analysis for the study investiga
 ## Analysis Components
 The data analysis is organized into three main Jupyter notebooks:
 
-1. Direct Coupling Analysis (DCA):   
-Notebook: [DCA](https://github.com/ziul-bio/alpnsp/blob/main/notebooks/alphavirus_nsP4_DCA.ipynb).  
+1. Direct Coupling Analysis (DCA):              
+Notebook: [DCA](https://github.com/ziul-bio/alpnsp/blob/main/notebooks/alphavirus_nsP4_DCA.ipynb).              
 Analysis of co-evolutionary constraints in alphavirus RdRp sequences using Direct Coupling Analysis to identify functionally important residue pairs and structural contacts.   
 
-2. Neff and V-scores Analysis:  
-Notebook: [Neff](https://github.com/ziul-bio/alpnsp/blob/main/notebooks/alphavirus_nsP4_Neff.ipynb). 
+2. Neff Analysis:           
+Notebook: [Neff](https://github.com/ziul-bio/alpnsp/blob/main/notebooks/alphavirus_nsP4_Neff.ipynb).            
 Computation of effective sequence numbers (Neff) to quantify sequence diversity and conservation patterns across the multiple sequence alignment.   
 
-3. Relative Solvent Accessibility (RSA) Analysis
-Notebook: [RSA](https://github.com/ziul-bio/alpnsp/blob/main/notebooks/alphavirus_nsP4_RSA.ipynb).   
+3. Relative Solvent Accessibility (RSA) Analysis:                
+Notebook: [RSA](https://github.com/ziul-bio/alpnsp/blob/main/notebooks/alphavirus_nsP4_RSA.ipynb).                 
 Calculation and analysis of relative solvent accessibility to correlate surface exposure patterns with functional and conformational switching regions.    
 
 ## Data Files
